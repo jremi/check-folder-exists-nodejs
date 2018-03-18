@@ -5,7 +5,7 @@ This module returns a promise.
 ---
 This package is available via npm
 <a href="https://www.npmjs.com/package/check-folder-exists">
-    <img align="left" width="100" height="100" src="https://cdn.iconscout.com/public/images/icon/free/png-256/npm-logo-3dc2529e5720fdb2-256x256.png">
+<img align="left" width="100" height="100" src="https://cdn.iconscout.com/public/images/icon/free/png-256/npm-logo-3dc2529e5720fdb2-256x256.png">
 </a>
     npm install --save check-folder-exists
 ---
