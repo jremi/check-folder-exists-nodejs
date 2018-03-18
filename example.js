@@ -9,7 +9,7 @@
 
 */
 
-var checkFolderExists = require('../checkFolderExists.js');
+var checkFolderExists = require('./checkFolderExists.js');
 
 checkFolderExists('/Users/jremi/Documents/', 'code')
   .then(function(res){

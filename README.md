@@ -1,6 +1,8 @@
 # Node module to check if local file path contains a specified folder name using NodeJS
 
-This module returns a promise.
+This module returns a promise. This package is available via npm
+
+    npm install --save check-folder-exists
 
 # Example Usage
 
@@ -8,7 +10,7 @@ In the example below we are checking if the *filePath* (first parameter) **/User
 
 **Note:** This example can be found in this repository inside */example.js*
 
-    var checkFolderExists =  require('../checkFolderExists.js');
+    var checkFolderExists =  require('check-folder-exists');
     
     checkFolderExists('/Users/jremi/Documents/', 'Foo')
     .then(function(res){

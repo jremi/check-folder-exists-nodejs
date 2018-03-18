@@ -1,0 +1,29 @@
+{
+  "name": "check-folder-exists",
+  "version": "0.1.0",
+  "description": "Node module to check if local file path contains a specified folder name using NodeJS",
+  "main": "checkFolderExists.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jremi/check-folder-exists-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "promise",
+    "check",
+    "folder",
+    "folder",
+    "exists",
+    "promise",
+    "module"
+  ],
+  "author": "“Jremi” <“toejam4134@yahoo.com”> (“http://github.com/jremi\")",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jremi/check-folder-exists-nodejs/issues"
+  },
+  "homepage": "https://github.com/jremi/check-folder-exists-nodejs#readme"
+}
