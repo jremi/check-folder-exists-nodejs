@@ -1,6 +1,6 @@
 {
   "name": "check-folder-exists",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node module to check if local file path contains a specified folder name using NodeJS",
   "main": "checkFolderExists.js",
   "scripts": {
