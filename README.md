@@ -6,7 +6,7 @@ This module returns a promise.
 
 In the example below we are checking if the *filePath* (first parameter) **/Users/jremi/Documents** has *folderName* (second parameter) existing named **Foo**. 
 
-**Note:** This example can be found in this repository inside */examples/example.js*
+**Note:** This example can be found in this repository inside */example.js*
 
     var checkFolderExists =  require('../checkFolderExists.js');
     
