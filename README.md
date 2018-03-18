@@ -1,6 +1,9 @@
 # Node module to check if local file path contains a specified folder name using NodeJS
 
-This module returns a promise. This package is available via npm
+This module returns a promise. 
+
+This package is available via npm
+![npm available](https://cdn.iconscout.com/public/images/icon/free/png-256/npm-logo-3dc2529e5720fdb2-256x256.png)
 
     npm install --save check-folder-exists
 
