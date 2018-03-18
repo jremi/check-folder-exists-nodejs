@@ -5,9 +5,9 @@ This module returns a promise.
 ---
 This package is available via npm
 <img align="left" width="100" height="100" src="https://cdn.iconscout.com/public/images/icon/free/png-256/npm-logo-3dc2529e5720fdb2-256x256.png">
+
     npm install --save check-folder-exists
 ---
-
 # Example Usage
 
 In the example below we are checking if the *filePath* (first parameter) **/Users/jremi/Documents** has *folderName* (second parameter) existing named **Foo**. 
